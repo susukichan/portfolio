@@ -1,0 +1,28 @@
+/* Add here all your css styles (customizations) */
+
+#bg-image {
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.front {
+  text-shadow: 1px 1px #ff0000;
+}
+
+.light-theme .nav-item .nav-link {
+  color: #fff;
+}
+
+#project1 {
+  background-color: #a0ecff;
+}
+
+#project2 {
+  background-color: #a0c0ff;
+}
+
+#project3 {
+  background-color: #ffa0a0;
+}
